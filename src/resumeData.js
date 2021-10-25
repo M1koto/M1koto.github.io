@@ -14,7 +14,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I am currently a junior at the University of California, Berkeley and pursuing a Bachelor degree in Computer Science and minoring in Data Science. Throughout clubs, previous internships, side projects, and courseworks, I have developed a passion for software engineering and machine learning. I hope to pursue a career in software engineering and machine learning to help solve complex problems and build a more efficient world!",
+    "aboutme":"I am currently a junior at the University of California, Berkeley and am pursuing a Bachelor's degree in Computer Science and Data Science. Through clubs, previous internships, side projects, and courseworks, I have developed a passion for software engineering and machine learning. I hope to pursue a career in software engineering and machine learning to help solve complex problems and build a more efficient world!",
     "website":"yenming891109@gmail.com",
     "education":[
       {
