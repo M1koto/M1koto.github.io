@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Kenny_Portfolio/precache-manifest.d246b7038e6a8cf02d4c04b8f94bba74.js"
+  "/m1koto/precache-manifest.00dd36fe844c48b5b3d62b5de51716dc.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Kenny_Portfolio/index.html", {
+workbox.routing.registerNavigationRoute("/m1koto/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
