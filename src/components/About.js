@@ -30,10 +30,10 @@ export default class About extends Component {
        						<span>{resumeData.name}</span>
                      <br></br>
        						   <span>
-                     Mobile: (707)727-5009
+                     MOBILE: (707)727-5009
                     </span>
                     <br></br>
-                    <span>Email: {resumeData.website}</span>
+                    <span>EMAIL: {resumeData.website}</span>
        					   </p>
                   </div>
                </div>

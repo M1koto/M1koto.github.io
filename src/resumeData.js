@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://github.com/M1koto.github.io",
     "name": "Kenny Liao",
-    "roleDescription": "I study computer science at University of California, Berkeley. My career interests include: Software Engineering, Machine learning, Data Science, and Computer Security. I am Currently looking for internship in Summer 2022!",
+    "roleDescription": "I study computer science at University of California, Berkeley. My career interests include: Software Engineering, Machine learning, Data Science, and Computer Security. I am currently looking for internship in Summer 2022!",
     "socialLinks":[
         {
           "name":"linkedin",
