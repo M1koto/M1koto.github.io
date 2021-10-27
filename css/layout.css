@@ -297,12 +297,13 @@ ul#nav li.current a { color: #F06000; }
    background: #ffffff;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 35px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #828f8f;
+   margin-top: -25px;
+   color: #a0a9a9;
 }
 
 /* Portfolio Content */
@@ -311,6 +312,8 @@ ul#nav li.current a { color: #F06000; }
    background: #fff;
    overflow: hidden;
    position: relative;
+
+   pointer-events:none;
 
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -367,6 +370,8 @@ ul#nav li.current a { color: #F06000; }
    margin-top: -15px;
 }
 .portfolio-item .item-wrap img {
+   height: 200px;
+   width: 200px;
    vertical-align: bottom;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
