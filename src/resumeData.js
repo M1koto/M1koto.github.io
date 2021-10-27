@@ -54,7 +54,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Sproul Club Recommendation System",
-        "description":"A recommendation system for Sroul.club to recommend clubs to users based on favorited clubs and viewed clubs",
+        "description":"A recommendation system for Sproul.club to recommend clubs to users based on favorited clubs and viewed clubs",
         "imgurl":"images/portfolio/sather-bear.png"
       },
       {
